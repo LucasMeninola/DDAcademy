@@ -4,7 +4,7 @@ DD academy foi realizado em um curto espaço de tempo com desafios em C, Micro c
 - [X]  Estudos de eletronica digital.
 - [X]  Portas logicas.
 - [X]  Conversão de base numerica.
-- []  Criação de Projetos AVR.
+- [ ]  Criação de Projetos AVR.
 
 
 #VocêTaMaluco #NãoAcreditoNisso 
