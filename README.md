@@ -40,4 +40,4 @@ A
 ![App Screenshot](https://drupal-multisite-s3.s3-us-west-2.amazonaws.com/files/canalaetv/steven_seagal_flickr.jpg)
 
 #VocêTaMaluco #NãoAcreditoNisso 
-Aze![App Screenshot](vedo Não precisa me impressionar ...
+Azevedo Não precisa me impressionar ...!
