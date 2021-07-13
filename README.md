@@ -37,5 +37,7 @@ A
 
 - [@Adeilson Zainaghi)
 
+![App Screenshot](https://drupal-multisite-s3.s3-us-west-2.amazonaws.com/files/canalaetv/steven_seagal_flickr.jpg)
+
 #VocêTaMaluco #NãoAcreditoNisso 
-Azevedo Não precisa me impressionar ...
+Aze![App Screenshot](vedo Não precisa me impressionar ...
